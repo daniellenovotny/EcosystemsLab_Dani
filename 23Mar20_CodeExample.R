@@ -31,3 +31,8 @@ plot(x,y)
 
 # After you pull the most recent changes, push yours
 
+x <- c(1,4,8,12) 
+y <- x^2 #a more streamlined way of creating a data set
+
+plot(x,y, pch=15)
+
